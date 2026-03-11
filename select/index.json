@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "冒険者たち",
+  "base_artist": "Do As Infinity",
+  "createdAt": "2026-03-11T04:13:11.181068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冒険者たち",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/01_冒険者たち_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冒険者たち (GREAT TOUR BAND version)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/02_冒険者たち_(GREAT_TOUR_BAND_version)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冒険者たち",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/03_冒険者たち_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "冒険者たち(Do As Infinity Acoustic Tour 2016 -2 of Us-)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/04_冒険者たち(Do_As_Infinity_Acoustic_Tour_2016_-2_of_Us-)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "冒険者たち",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/05_冒険者たち_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冒険者たち",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/06_冒険者たち_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "冒険者たち",
+      "artist": "Do As Infinity",
+      "has_synced": false,
+      "path": "select/07_冒険者たち_Do_As_Infinity.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "冒険者たち～GREAT TOUR BAND",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/08_冒険者たち~GREAT_TOUR_BAND_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "冒険者たち～GREAT TOUR BAND version",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/09_冒険者たち~GREAT_TOUR_BAND_version_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "冒険者たち [2 of Us]",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/10_冒険者たち_[2_of_Us]_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冒険者たち",
+      "artist": "DoAsInfinity",
+      "has_synced": false,
+      "path": "select/pl_01_冒険者たち_DoAsInfinity.txt"
+    }
+  ]
+}
